@@ -69,4 +69,4 @@ Cara Menjalankan Project
 
 Repository GitHub
 
-https://github.com/Genastio/uts-laravel-2457401018
+https://github.com/Genastio/GENASTIO-AUTO-SERVICE
